@@ -2,15 +2,15 @@
 #### Attribution Reporting API Experimental
 #### Audio Output Devices API Experimental
 ## B
-Background Fetch API Experimental
-Background Sync
-Background Tasks
-Badging API
-Barcode Detection API Experimental
-Battery API
-Beacon
-Bluetooth API Experimental
-Broadcast Channel API
+#### Background Fetch API Experimental
+#### Background Sync
+#### Background Tasks
+#### Badging API
+#### Barcode Detection API Experimental
+#### Battery API
+#### Beacon
+#### Bluetooth API Experimental
+#### Broadcast Channel API
 ## C
 CSS Counter Styles
 CSS Custom Highlight API
